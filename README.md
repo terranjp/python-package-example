@@ -17,3 +17,7 @@ I wanted to use pip to ease the installation of packages. Unfortunately embedded
 
 
 [Using CPython’s Embeddable Zip File](https://blogs.msdn.microsoft.com/pythonengineering/2016/04/26/cpython-embeddable-zip-file/)
+
+
+
+
