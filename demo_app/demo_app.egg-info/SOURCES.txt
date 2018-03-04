@@ -1,0 +1,10 @@
+setup.py
+demo_app/__init__.py
+demo_app/__main__.py
+demo_app/main_window.py
+demo_app.egg-info/PKG-INFO
+demo_app.egg-info/SOURCES.txt
+demo_app.egg-info/dependency_links.txt
+demo_app.egg-info/entry_points.txt
+demo_app.egg-info/requires.txt
+demo_app.egg-info/top_level.txt
