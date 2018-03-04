@@ -1,0 +1,5 @@
+lib/site-packages
+python36
+.
+# Uncomment to run site.main() automatically
+import site
